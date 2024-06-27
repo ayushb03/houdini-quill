@@ -1,4 +1,5 @@
 ## Project: Houdini 🪄 - Your Magical Text & PDF AI Assistant
+**Demo Link** [https://drive.google.com/file/d/19TcXpW4rcibmRleduo0f7NAXa292MZYJ/view?usp=drive_link]
 
 Here's Houdini, an awesome AI assistant that can answer your questions in two ways:
 
